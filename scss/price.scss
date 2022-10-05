@@ -1,0 +1,120 @@
+.pricing {
+	background: #6696E2;
+  }
+  .container-pricing{
+	display: flex;
+	flex-direction: column;
+	max-width: 1080px;
+	margin: auto;
+  }
+  
+  .textup-2 {
+	color: white;
+	text-align: center;
+	margin: 50px auto;
+	}
+  
+	.textup h2 {
+		margin-bottom: 20px;
+	}
+  
+	.text1 {
+		color: white;
+	}
+	.size {
+		font-size: 0.8em;
+	}
+  
+	.border-line3 {
+		margin: 20px auto;
+		width: 65px;
+		border-bottom: 2px solid #41D395;
+	}
+  
+	.pricing {
+		display: flex;
+		align-items: flex-end;
+		justify-content: center;
+		gap: 30px;
+	}
+	.basic {
+		color: #86878B;
+		border-radius: 5px 5px 0 0;
+		margin-bottom: 70px;
+	}
+  
+	.number {
+		color: white;
+		font-size: 64px;
+		display: block;
+		text-align: center;
+		span {
+		  font-size: 0.5em;
+		}
+	}
+  
+	.basic-top {
+		background: #333333;
+		border-radius: 5px 5px 0 0;
+		line-height: 50px; 
+		
+	}
+  
+	.border-green {
+		width: 100%;
+		border-bottom: 6px solid #41D395;
+	}
+  
+	.basic-down {
+		background: white;
+		border-radius: 0 0 5px 5px;
+		line-height: 40px;
+		padding:0 50px;
+		font-size: 0.8em;
+	}
+	.professional {
+		color: #86878B;
+		margin-bottom: 70px;
+	}
+  
+	.professional-top {
+		background: #333333;
+		border-radius: 5px 5px 0 0;
+		line-height: 50px; 
+	}
+  
+	.border-green2 {
+		width: 100%;
+		padding: 10px;
+		background: #41D395;
+		text-align: center;
+		color: white;
+	}
+  
+	.professional-down {
+		background: white;
+		border-radius: 0 0 5px 5px;
+		line-height: 40px;
+		padding: 0 50px;
+		font-size: 0.8em;
+	}
+  
+
+	.enterprise {
+		color: #86878B;
+		margin-bottom: 70px;
+	}
+  
+	.enterprise-top {
+		background: #333333;
+		border-radius: 5px 5px 0 0;
+		line-height: 50px; 
+	}
+  
+	.enterprise-down {
+		background: white;
+		border-radius: 0 0 5px 5px;
+		line-height: 40px;
+		padding: 0 50px;
+		font-size: 0.8em;
+	}

@@ -1,0 +1,22 @@
+footer {
+    background: black;
+    color: #86878B;
+    padding: 30px;
+   }
+  
+   .container-footer {
+    max-width: 1080px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    .social {
+      display: flex;
+      gap: 100px;
+    }
+    
+    img{
+        min-width: 20px;
+        height: 20px;
+      
+    }
+   }

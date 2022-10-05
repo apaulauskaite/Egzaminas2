@@ -1,0 +1,56 @@
+.why .container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 50px auto;
+  }
+  
+  .textup {
+	text-align: center;
+	margin: 50px auto;
+	}
+  
+	.textup h2 {
+		margin-bottom: 20px;
+
+	}
+  
+  .border-line2 {
+	margin: 20px auto;
+	width: 65px;
+	border-bottom: 2px solid #E27866;
+	p{
+		color: #86878B;
+	}
+  }
+  
+  
+  .icons {
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	margin: 20px auto;
+	
+  }
+  
+  .content-text {
+	margin: 40px auto;
+	max-width: 280px;
+   
+  h4 {
+	margin-bottom: 30px;
+	font-weight: normal;
+	font-size: 20px;}
+p {
+color: #86878B;
+font-size: 14px;
+}  
+}
+
+  .icon {
+	border: 1px solid #E27866;
+	padding: 10px;
+	border-radius: 50px;
+	&:hover  {
+		transform: scale(1.2)}
+  }

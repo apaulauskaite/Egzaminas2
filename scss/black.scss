@@ -1,0 +1,53 @@
+.black {
+	background: #1C1C1C;
+	width: 100%;
+	padding: 50px 0;
+  }
+  
+  .black img.big {
+	height: 170px;
+	margin: auto;
+  }
+  
+  .border-line {
+	width: 200px;
+	height: 2px;
+	border-bottom: 2px solid #E27866;
+  }
+  
+  .text3 {
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+	margin: 50px auto;
+	padding-left: 100px;
+	width: 100%;
+  }
+  
+  
+  .text3 h1 {
+	width: 300px;
+	color: white;
+	font-weight: bold;
+	margin-bottom: 20px;
+  }
+  
+  .text3 p {
+	color: white;
+	margin-top: 20px;
+  }
+  
+  .title-img {
+   background: #E27866;
+   width: 50px;
+   height: 50px;
+   border-radius: 50px;
+   padding: 10px;
+  }
+  
+  
+  li{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+  }
